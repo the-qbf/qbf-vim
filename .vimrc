@@ -42,8 +42,7 @@ set mouse=a " Mouse support in console
 set whichwrap=<,>,h,l,[,]
 set backspace=indent,eol,start
 
-" Hidden buffers, so we don't have to save every time we unload a
-buffer
+" Hidden buffers, so we don't have to save every time we unload a buffer
 " from a window.
 set hidden
 
